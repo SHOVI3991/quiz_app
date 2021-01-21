@@ -17,7 +17,7 @@ const quizDB = [
     },
     {
         question: "Q3: What is the full form of HTTP?",
-        a: "HyperPerson Transfer To Prison",
+        a: "HyperPaste Transfer To Prison",
         b: "HyperTest Tension Person",
         c: "Hey Transfer Protocol",
         d: "HyperText Transfer Protocol",
